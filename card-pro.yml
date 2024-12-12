@@ -2,7 +2,7 @@ build:
   version: "3.0pro"
 
 account:
-  message: "Welcome to EazyBankCardProduction accounts related local APIs "
+  message: "Welcome to EazyBankCardPro accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
